@@ -7,7 +7,7 @@ export default function Home() {
 
   return (
     <main className={styles.main}>
-      <h2>Dashboard</h2>
+      <h2>Dashboardaasdf</h2>
       <Test />
     </main>
   );
